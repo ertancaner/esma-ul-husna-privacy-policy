@@ -1,21 +1,45 @@
-GİZLİLİK POLİTİKASI (PRIVACY POLICY)
+📜 GİZLİLİK POLİTİKASI (PRIVACY POLICY)
 
-1. Veri Gizliliği Tahahhüdü
-Bu uygulama, "Kullanıcı Gizliliği" prensibini temel alarak geliştirilmiştir. Kullanıcılarımızın mahremiyetine saygı duyuyor ve verilerinizin güvenliğini en üst seviyede tutuyoruz.
+Son Güncelleme: 25 Şubat 2026
 
-2. Veri Toplama ve Depolama
-Uygulamamız; isim, e-posta, telefon numarası veya konum gibi hiçbir kişisel veriyi TOPLAMAZ, İŞLEMEZ ve SUNUCULARIMIZA İLETMEZ.
+1. Veri Gizliliği Taahhüdü
+
+Bu uygulama, kullanıcı gizliliğine saygı duyar ve kişisel verilerinizi korumayı taahhüt eder. Uygulama temel işlevlerini yerine getirebilmek için minimum veri prensibi ile çalışır.
+
+2. Toplanan Veriler
+
+Uygulama; ad, soyad, e-posta adresi, telefon numarası, konum gibi doğrudan kişisel kimlik bilgilerini toplamaz ve sunucularında saklamaz.
+
+Ancak uygulama içerisinde Google AdMob reklam hizmeti kullanılmaktadır. Bu kapsamda aşağıdaki veriler üçüncü taraf (Google) tarafından otomatik olarak toplanabilir:
+
+Cihaz veya diğer kimlikler (Advertising ID)
+
+Uygulama etkileşim bilgileri (reklam gösterimi ve tıklama verileri)
+
+Teşhis ve performans verileri
+
+Bu veriler Google tarafından reklam sunumu ve performans ölçümü amacıyla işlenir.
 
 3. Yerel Depolama (Local Storage)
-Zikir sayılarınız, istatistikleriniz ve uygulama ayarlarınız yalnızca sizin cihazınızda (AsyncStorage) saklanır. Bu veriler uygulamayı sildiğinizde cihazınızdan temizlenir ve bizim tarafımızdan erişilemez.
 
-4. Üçüncü Taraf Paylaşımı
-Verileriniz hiçbir şekilde üçüncü taraflarla, reklam ağlarıyla veya veri analiz şirketleriyle paylaşılmaz. Uygulama içinde reklam bulunmamaktadır.
+Zikir sayıları, istatistikler ve uygulama ayarları yalnızca kullanıcının cihazında (AsyncStorage) saklanır. Bu veriler geliştirici tarafından görüntülenemez ve uygulama silindiğinde cihazdan kaldırılır.
 
-5. İzinler
-Uygulama, yalnızca zikir hatırlatıcıları ve dini gün bildirimleri göndermek için "Bildirim İzni" talep eder. Bu izin isteğe bağlıdır ve dilediğiniz zaman ayarlardan kapatılabilir.
+4. Üçüncü Taraf Hizmetler
 
-6. İletişim
-Gizlilik politikamız hakkındaki sorularınız için: esmaulhusna.app@gmail.com
+Uygulama Google AdMob reklam hizmetini kullanmaktadır. AdMob, reklam sunmak amacıyla cihaz kimliği ve reklam kimliği gibi belirli verileri toplayabilir ve işleyebilir.
 
-Son Güncelleme: 22 Ocak 2026
+Google’ın veri işleme politikası hakkında detaylı bilgi için:
+https://policies.google.com/privacy
+
+5. Veri Güvenliği
+
+Uygulama ve üçüncü taraf hizmetler aracılığıyla gerçekleştirilen veri aktarımı güvenli (HTTPS/TLS) bağlantılar üzerinden yapılmaktadır.
+
+6. Bildirim İzni
+
+Uygulama, zikir hatırlatıcıları ve dini gün bildirimleri için bildirim izni talep edebilir. Bu izin isteğe bağlıdır ve cihaz ayarlarından kapatılabilir.
+
+7. İletişim
+
+Gizlilik politikası ile ilgili sorularınız için:
+📧 vibecoderdevelope@gmail.com
