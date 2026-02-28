@@ -42,4 +42,4 @@ Uygulama, zikir hatırlatıcıları ve dini gün bildirimleri için bildirim izn
 7. İletişim
 
 Gizlilik politikası ile ilgili sorularınız için:
-📧 vibecoderdevelope@gmail.com
+📧 hello@futuritydev.com
